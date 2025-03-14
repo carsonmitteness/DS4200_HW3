@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(211, 238, 246);
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+h3 {
+    padding-top: 20px;
+    width: 800px; 
+    margin: 0 auto;
+    color: darkblue;
+}
+
+
+p {
+    width: 800px;
+    margin: 0 auto;
+    color: rgb(80, 153, 177);
+    font-family: "Times New Roman", serif;
+}
+
+ol {
+    width: 800px;
+    margin: 0 auto;
+    color: rgb(80, 153, 177);
+    font-family: "Times New Roman", serif;
+    background-color: lightyellow;
+}
+
+
+#animal img{
+    padding-top: 20px;
+    text-align: center;
+    width: 250px;
+}
+
+#animal {
+    text-align: center;
+    color: black;
+}
+
+#NP {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+#NP:hover {
+    background-color: darkblue;
+}
+
+#HP {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+#HP:hover {
+    background-color: darkblue;
+}
+
+#reference {
+    width: 800px;
+    margin: 0 auto;
+    color: black;
+    font-family: "Times New Roman", serif;
+}
